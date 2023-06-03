@@ -15,7 +15,7 @@ function toCommas(x) {
 exports.allMenu = (role, ucapanWaktu, pushname, mundur, upload, download, ownerName, botName, jam, tanggal, runtime, isCreator, isPremium, sender, limitCount, limit, gcount, glimit, balance, prefix) => {
     return`${ucapanWaktu} ${pushname !== undefined ? pushname : 'Kak'}
 
-Hitung Mundur Idul Fitri 🌙 
+Eid Countdown 🌙 
 ${mundur}
 
 *STATISTICS*
@@ -541,4 +541,38 @@ exports.donate = (pushname, ownerNumber) => {
 wa.me/${ownerNumber} (Owner)`
 }
 
-exports.sewanya = `Untuk List Sewa ubah sendiri di folder command, file help.js 👌 baris ke 521`
+exports.sewanya = `*🎭 SEWABOT PRICE LIST 🎭*
+
+LKR 20.00 = 2 Days
+
+LKR 50.000 = 6 Days
+
+LKR 100.00 = 13 Days
+
+LKR 150.000 = 19 Days
+
+LKR 200.00 = 27 Days
+
+LKR 300.00 = Permanent
+
+====================
+
+TODAY OFFER ✨
+
+*Rp 250.00 = Permanent*
+
+========================
+
+_• 24 HOURS BOT_
+
+_• DOWNLOAD MENU AVAILABLE_
+
+_• MAKE STICKER_
+
+_• ANTILINK & WELCOME AVAILABLE_
+
+_• ADD BOT TO YOUR GROUPS_
+
+INTERST? CONTACT OWNER
+
+Type .owner`
