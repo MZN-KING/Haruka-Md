@@ -1,13 +1,13 @@
 {
-    "wait": "_Sedang Di Proses_",
+    "wait": "*♻️ Please wait...*",
     "error": {
         "Iv": "*⚠️ The link you provided is invalid!*",
         "api": "⚠️ Sorry, An Error Occurred!*"
     },
     "OnlyGrup": "*⛔ This is a group command!*"",
     "OnlyPM": "*⛔️ This command can only be used in private messages!*",
-    "GrupAdmin": "Perintah ini hanya bisa digunakan oleh Admin Grup",
-    "BotAdmin": "Bot Harus menjadi admin",
+    "GrupAdmin": "*⛔️ This command can only be used by Group Admins!*",
+    "BotAdmin": "😬 *Bot must be an admin!*",
     "OnlyOwner": "Perintah ini hanya dapat digunakan oleh owner bot",
     "OnlyPrem": "Perintah ini khusus member premium"
 }
